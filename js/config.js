@@ -1,4 +1,4 @@
-const fonts = {
+export const fonts = {
     coptic: {
         // The script the Gnostic codices were written in
         glyphMSDFURL: "assets/coptic_msdf.png",
